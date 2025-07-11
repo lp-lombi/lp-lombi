@@ -11,7 +11,6 @@
                 <li>Angular</li>
                 <li>Nest.js + TypeORM</li>
                 <li>Flask</li>
-                <li>Android Studio</li>
             </ul>
         </td>
         <td valign="top" style="border: none;" width="500">
@@ -21,6 +20,7 @@
                 <li>Photoshop</li>
                 <li>Gimp</li>
                 <li>Godot</li>
+                <li>Android Studio</li>
             </ul>
         </td>
         <td valign="top" style="border: none;" width="500">
@@ -30,6 +30,7 @@
                 <li>Typescript / Javascript</li>
                 <li>HTML + CSS</li>
                 <li>Kotlin</li>
+                <li>Java</li>
                 <li>C#</li>
             </ul>
         </td>
