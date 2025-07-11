@@ -1,4 +1,4 @@
-<h1>Español</h1>
+<h1>Sobre mí</h1>
 <p>Mí nombre es Lautaro, argentino estudiante de Tecnicatura Universitaria en Desarrollo Web.</p>
 
 <h3>Lenguajes</h3>
@@ -12,8 +12,11 @@
 
 <h3>Frameworks</h3>
 <ul>
-    <li>React</li>
     <li>Node.js</li>
+    <li>React</li>
+    <li>Angular</li>
+    <li>Nest.js + TypeORM</li>
+    <li>Flask</li>
     <li>Android Studio</li>
 </ul>
 
@@ -22,4 +25,5 @@
     <li>Blender</li>
     <li>Photoshop</li>
     <li>Gimp</li>
+    <li>Godot</li>
 </ul>
