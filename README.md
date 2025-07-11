@@ -3,7 +3,7 @@
 
 <table style="border-collapse: collapse; border: none;">
     <tr>
-        <td valign="top" style="border: none;">
+        <td valign="top" style="border: none;" width="500">
             <h3>Frameworks</h3>
             <ul>
                 <li>Node.js</li>
@@ -14,7 +14,7 @@
                 <li>Android Studio</li>
             </ul>
         </td>
-        <td valign="top"style="border: none;">
+        <td valign="top" style="border: none;" width="500">
             <h3>Herramientas</h3>
             <ul>
                 <li>Blender</li>
@@ -23,7 +23,7 @@
                 <li>Godot</li>
             </ul>
         </td>
-                <td valign="top" style="border: none;">
+        <td valign="top" style="border: none;" width="500">
             <h3>Lenguajes</h3>
             <ul>
                 <li>Python</li>
