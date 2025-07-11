@@ -1,9 +1,9 @@
 <h1>Sobre mí</h1>
 <p>Mí nombre es Lautaro, argentino estudiante de Tecnicatura Universitaria en Desarrollo Web.</p>
 
-<table>
+<table style="border-collapse: collapse; border: none;">
     <tr>
-        <td valign="top" width="500" style="border: none;">
+        <td valign="top" style="border: none;">
             <h3>Frameworks</h3>
             <ul>
                 <li>Node.js</li>
@@ -14,7 +14,7 @@
                 <li>Android Studio</li>
             </ul>
         </td>
-        <td valign="top" width="500" style="border: none;">
+        <td valign="top"style="border: none;">
             <h3>Herramientas</h3>
             <ul>
                 <li>Blender</li>
@@ -23,9 +23,7 @@
                 <li>Godot</li>
             </ul>
         </td>
-    </tr>
-    <tr>
-        <td valign="top" style="border: none;">
+                <td valign="top" style="border: none;">
             <h3>Lenguajes</h3>
             <ul>
                 <li>Python</li>
