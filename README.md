@@ -10,20 +10,23 @@
     <li>C#</li>
 </ul>
 
-<h3>Frameworks</h3>
-<ul>
-    <li>Node.js</li>
-    <li>React</li>
-    <li>Angular</li>
-    <li>Nest.js + TypeORM</li>
-    <li>Flask</li>
-    <li>Android Studio</li>
-</ul>
-
-<h3>Herramientas</h3>
-<ul>
-    <li>Blender</li>
-    <li>Photoshop</li>
-    <li>Gimp</li>
-    <li>Godot</li>
-</ul>
+<table>
+    <tr>
+        <td>
+            ### Frameworks
+            - Node.js
+            - React
+            - Angular
+            - Nest.js + TypeORM
+            - Flask
+            - Android Studio
+        </td>
+        <td>
+            ### Herramientas
+            - Blender
+            - Photoshop
+            - Gimp
+            - Godot
+        </td>
+    </tr>
+</table>
